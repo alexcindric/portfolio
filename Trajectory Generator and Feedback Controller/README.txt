@@ -1,4 +1,5 @@
 How to run the software: 
+This code uses the Modern Robotics library and the save files can be run in CoppeliaSim using the Modern Robotics KUKA uBot scene.
 First code in notebook contains all functions and imports needed, this needs to be run first but is only required to run once.
 There are three code blocks after this:
 The first contains the required commands to run the best case
